@@ -75,6 +75,7 @@ body{
 }
 
 .overlay .title1{
+    padding-top: 20px;
     font-weight: bold;
     color: white;
 }
