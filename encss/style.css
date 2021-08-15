@@ -624,7 +624,7 @@ hr{
 @media (max-width:991px){
     .overlay .title2 {
         width: 90%;
-	    font-size: 19px;
+	    font-size: 20px;
     }
     .overlay .custom-btn{
         display: none;
