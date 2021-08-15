@@ -712,14 +712,14 @@ hr{
 
 @media only screen and (max-width: 992px) {
   .ibrahim {text-align: justify;}
-  .overlay .title1{font-size: 8px;}
-  .overlay .title2{font-size: 5px;}
+  .overlay .title1{font-size:50%;}
+  .overlay .title2{font-size: 20%;}
 }
 
 @media only screen and (min-width: 992px) {
   .ibrahim {text-align: justify;}
- .overlay .title1{font-size: 8px;}
-  .overlay .title2{font-size: 5px;}
+ .overlay .title1{font-size:50%;}
+  .overlay .title2{font-size: 20%;}
 }
 
 @media only screen and (max-width: 1200px) {
